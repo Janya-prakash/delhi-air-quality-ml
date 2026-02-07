@@ -143,5 +143,5 @@ This performance is reasonable because AQI is computed from pollutant concentrat
 1. **Clone or download** this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/delhi-air-quality-ml.git
+   git clone https://github.com/Janya-prakash/delhi-air-quality-ml.git
    cd delhi-air-quality-ml
